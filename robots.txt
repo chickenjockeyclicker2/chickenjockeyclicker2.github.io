@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://chickenjockeyclicker2.github.io/sitemap.xml
